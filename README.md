@@ -1,4 +1,5 @@
-**ABOUT graphics.h**
+**ABOUT graphics.h**:
+
 The graphics.h library is part of the old Borland BGI (Borland Graphics Interface) and is used to perform simple graphical
 operations in C and C++ programming. Although it's not commonly used in modern development due to its limitations and lack
 of portability, it can still be a fun way to learn about basic graphics programming.
